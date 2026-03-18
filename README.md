@@ -44,6 +44,10 @@ The server was configured with Active Directory on Windows Server to simulate an
 
 These services were implemented to create a fully functional Domain Controller capable of handling centralized authentication, policy enforcement, access control, and enterprise-level administration within a controlled lab environment.
 
+<p align="center">
+<img src="https://github.com/Dalilatu/Project-Page-Dal/blob/main/Home%20lab%20Setup%20diagram.drawio.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 <h3>Network Configuration</h3>
 
 After completing the installation of Active Directory on Windows Server, the server was configured with a static IP address, subnet mask, and default gateway.<br/>
