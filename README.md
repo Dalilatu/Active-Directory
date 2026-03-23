@@ -59,7 +59,7 @@ Assigning a static IP ensures consistent network identification and reliable dom
 <br/>
 
 ## Users and Groups
-We created two users just for demonstration, one with administrator right and a normal user. <br/>
+We created two users just for demonstration, one with administrator privileges and a normal user. <br/>
 <br/>
 <p align="center">
   Installed Active Directory Tools:<br/>
