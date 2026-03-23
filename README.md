@@ -50,6 +50,7 @@ These services were implemented to create a fully functional Domain Controller c
 
 <br />
 <br />
+
 ## Network Configuration
 
 After completing the installation of Active Directory on Windows Server, the server was configured with a static IP address, subnet mask, and default gateway.<br/>
@@ -58,7 +59,14 @@ Assigning a static IP ensures consistent network identification and reliable dom
 <br/>
 
 ## Users and Groups
+We created two users just for demonstration, one with administrator right and a normal user. <br/>
+<br/>
+<p align="center">
+  Installed Active Directory Tools:<br/>
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/aecd2c46-ae9c-421f-af94-104edd6ed4a3" />
 
+<br />
+<br />
 
 
 ## Conclusion
