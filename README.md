@@ -63,7 +63,8 @@ We created two users just for demonstration, one with administrator right and a 
 <br/>
 <p align="center">
   Installed Active Directory Tools:<br/>
-<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/aecd2c46-ae9c-421f-af94-104edd6ed4a3" />
+<img width="753" height="516" alt="image" src="https://github.com/user-attachments/assets/9220c758-f50f-4f7d-b02a-ddd4a1c489a5" />
+
 
 <br />
 <br />
