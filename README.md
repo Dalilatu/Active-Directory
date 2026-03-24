@@ -76,7 +76,7 @@ This is to Join the windows system of the client with the domain we created.<br/
 <br/>
 <p align="center">
  Step 1: Go to network settings on the client's computer<br/>
-<img width="1023" height="721" alt="image" src="https://github.com/user-attachments/assets/73dd6a47-bdbd-4c34-9169-ef8716973ac8" />
+<img width="1000" height="721" alt="image" src="https://github.com/user-attachments/assets/73dd6a47-bdbd-4c34-9169-ef8716973ac8" />
 
 
 
