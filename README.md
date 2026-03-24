@@ -68,6 +68,10 @@ We created two users just for demonstration, one with administrator privileges a
 
 <br />
 <br />
+ 
+## Domain Joining
+
+This is to Join the windows system of the client with the domain we created.<br/>
 
 
 ## Conclusion
